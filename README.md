@@ -15,10 +15,10 @@ I enjoy exploring new technologies, experimenting with hardware and software, an
 
 ## Languages and Technologies
 
-**Programming and scripting:** Python, Kotlin, Bash
-**Styling:** CSS
-**Infrastructure:** Linux, Docker, MikroTik RouterOS
-**Development tools:** Git, GitHub, Visual Studio Code, Android Studio
+- **Programming and scripting:** Python, Kotlin, Bash
+- **Styling:** CSS
+- **Infrastructure:** Linux, Docker, MikroTik RouterOS
+- **Development tools:** Git, GitHub, Visual Studio Code, Android Studio
 
 ## Projects
 
